@@ -35,3 +35,4 @@ Or you can force a restart of the background process and attach to that with the
 ```
 npx deemon --restart /bin/bash -c "while true; do date; sleep 1; done"
 ```
+Add installation and usage examples to README.md
